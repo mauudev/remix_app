@@ -17,8 +17,3 @@ This is a pretty simple note-taking app, but it's a good example of how you can 
   ```
 
 This starts your app in development mode, rebuilding assets on file changes.
-
-The database seed script creates a new user with some data you can use to get started:
-
-- Email: `rachel@remix.run`
-- Password: `racheliscool`
